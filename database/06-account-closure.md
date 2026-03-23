@@ -1,0 +1,1 @@
+Full content of "Customer-Initiated Account Closure Procedure" from agent-kb.tsx

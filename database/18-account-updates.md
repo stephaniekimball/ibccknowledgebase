@@ -1,0 +1,1 @@
+Full content of "Updating Permissions and Account Information" from agent-kb.tsx

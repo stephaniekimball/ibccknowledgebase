@@ -1,0 +1,1 @@
+Full content of "Payment Procedures and Payment Inquiries" from agent-kb.tsx

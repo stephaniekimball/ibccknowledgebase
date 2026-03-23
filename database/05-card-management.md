@@ -1,0 +1,1 @@
+Full content of "Card Management: Replacement, Activation and Freezing" from agent-kb.tsx

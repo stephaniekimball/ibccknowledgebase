@@ -1,0 +1,1 @@
+Full content of "Transaction Exemption Procedure" from agent-kb.tsx

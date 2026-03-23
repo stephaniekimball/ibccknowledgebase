@@ -1,0 +1,1 @@
+Full content of "Frequently Asked Questions" from agent-kb.tsx

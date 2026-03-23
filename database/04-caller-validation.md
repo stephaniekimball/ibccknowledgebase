@@ -1,0 +1,1 @@
+Full content of "Caller Validation Procedure" from agent-kb.tsx

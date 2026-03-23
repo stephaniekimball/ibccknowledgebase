@@ -1,0 +1,1 @@
+Full content of "Translator Line Procedure" from agent-kb.tsx

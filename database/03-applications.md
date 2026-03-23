@@ -1,0 +1,1 @@
+Full content of "Application Support & Inquiry Guide" from agent-kb.tsx
