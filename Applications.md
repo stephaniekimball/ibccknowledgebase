@@ -1,33 +1,23 @@
 # Applications
 
-## Application Flow Steps
-1. **Step 1**: Submit Application
-2. **Step 2**: Review Application
-3. **Step 3**: Decision Outcomes
+## Application Flow
+- Step 1: Initial application submission
+- Step 2: Review by team
+- Step 3: Decision communicated to applicant
 
 ## Decision Outcomes
-- **Auto Approve**: The application meets all criteria automatically.
-- **Auto Denied**: The application does not meet the necessary criteria automatically.
-- **Manual Review**: The application requires further investigation before a decision can be made.
+- Approved
+- Rejected
+- Pending additional information
 
-## Product Acceptance Flow
-- **Criterion 1**: Description
-- **Criterion 2**: Description
-- **Criterion 3**: Description
+## FAQs
+Q1: How long does the application process take?  
+A: Typically, 1-2 weeks.
 
-## FAQs About Applications
-1. **What is the typical processing time for applications?**  
-   Typically, it takes 5-7 business days to process applications.
-2. **Can I check the status of my application?**  
-   Yes, you can check the status through our application portal.
+Q2: Can I appeal a decision?  
+A: Yes, there's a formal appeal process.
 
-## Mobile App Download Instructions
-1. Go to the App Store or Google Play Store.
-2. Search for "Application Name."
-3. Download and install the application on your device.
-
-## Accessing via QBO
-To access applications via QuickBooks Online (QBO):
-1. Log in to your QBO account.
-2. Navigate to the applications section in the dashboard.
-3. Follow the prompts to use the applications.
+## Mobile App Setup Instructions
+1. Download the app from the App Store or Google Play.
+2. Create an account or log in.
+3. Follow the on-screen instructions to set up.
