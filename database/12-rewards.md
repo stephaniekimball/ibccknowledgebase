@@ -1,0 +1,1 @@
+Full content of "Rewards Overview" from agent-kb.tsx

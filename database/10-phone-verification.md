@@ -1,0 +1,1 @@
+Full content of "Phone Security Verification Process for IBCC Applications" from agent-kb.tsx

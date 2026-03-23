@@ -1,0 +1,1 @@
+Full content of "Transaction Dispute Intake Procedure" from agent-kb.tsx
